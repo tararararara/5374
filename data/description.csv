@@ -1,5 +1,6 @@
 label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
-燃やすごみ,,,img/moyasu02.svg,#ea3b13
-びん,,,img/bin02.svg,#2dc7aa
+可燃ごみ,,,,#ff6347
+容器包装プラスチック,,,,#b0c4de
+資源物,,,,#7cfc00
+不燃ごみ・剪定枝・廃食用油,,,,#6495ed
+蛍光灯、乾電池、カセットボンベ・スプレー缶類、体温計（水銀式）,,,,#ffd700
