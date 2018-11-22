@@ -1,5 +1,5 @@
 label,sublabel,description,styles,bgcolor
-可燃ごみ,,,,#ff6347
+可燃ごみ,,,img/test.svg,#ff6347
 容器包装プラスチック,,,,#00008b
 資源物,,,,#008000
 不燃ごみ・剪定枝・廃食用油,,,,#6495ed
